@@ -91,9 +91,15 @@ Jupyter Notebook	Model training & testing
 
 🧑‍💻 Author
 
-Kanha Patidar
-B.Tech CSIT Student | Chamelidevi Group of Institutions, Indore
-📍 India
+
+Developed by **Kanha Patidar**
+
+Branch: B.Tech CSIT
+
+Semester: 5th Sem
+
+College: Chameli Devi Group of Institutions, Indore
+
 
 GitHub: kanha165
 
